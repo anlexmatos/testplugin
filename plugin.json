@@ -1,0 +1,29 @@
+{
+  "slug": "testplugin",
+  "name": "testplugin",
+  "version": "1.0.0",
+  "license": "GPL-3.0-only",
+  "brand": "testplugin",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "testmodule",
+      "name": "testmodule",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "testmodule2",
+      "name": "testmodule2",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
